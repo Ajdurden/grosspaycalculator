@@ -1,4 +1,9 @@
-// This is my first program in C++. This program will calculate gross pay. - AJD
+/*
+	Program: Gross Pay Calculator
+	Written by anfernee durden
+	This program will calculate your gross pay for hours worked. - AJD
+	Last Modified: 10/10/21
+*/
 
 #include <iostream>
 
@@ -19,5 +24,8 @@ int main()
 
 	//Display the pay.
 	std::cout << " You have earned $" << pay << "\n";
+
 	return 0;
 }
+
+
